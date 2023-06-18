@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Qashqirdev
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on program
+- 📫 How to reach this https://www.instagram.com/lazizjamoliddinov2023/
